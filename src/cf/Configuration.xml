@@ -394,6 +394,7 @@
 			<CommonModule>СистемаВзаимодействияКлиент</CommonModule>
 			<CommonModule>УведомленияКлиент</CommonModule>
 			<CommonModule>УведомленияСервер</CommonModule>
+			<CommonModule>ОбщегоНазначения</CommonModule>
 			<ExchangePlan>Мобильные</ExchangePlan>
 			<XDTOPackage>ОбменСМобильнымУстройством</XDTOPackage>
 			<WebService>MAExchange</WebService>
@@ -503,6 +504,7 @@
 			<Document>ПоступлениеДенег</Document>
 			<Document>ПриходТовара</Document>
 			<Document>РасходТовара</Document>
+			<Document>СлужебнаяЗаписка</Document>
 			<DocumentJournal>ДокументыПродаж</DocumentJournal>
 			<DocumentJournal>ФинансовыеДокументы</DocumentJournal>
 			<Enum>ВидыТоваров</Enum>
