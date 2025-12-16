@@ -394,6 +394,7 @@
 			<CommonModule>СистемаВзаимодействияКлиент</CommonModule>
 			<CommonModule>УведомленияКлиент</CommonModule>
 			<CommonModule>УведомленияСервер</CommonModule>
+			<CommonModule>ОбщегоНазначения</CommonModule>
 			<ExchangePlan>Мобильные</ExchangePlan>
 			<XDTOPackage>ОбменСМобильнымУстройством</XDTOPackage>
 			<WebService>MAExchange</WebService>
@@ -476,32 +477,34 @@
 			<CommonForm>ФормаПодбораМобильная</CommonForm>
 			<CommonForm>Звонок</CommonForm>
 			<CommonForm>ФормаВыбораПользователяСистемыВзаимодействия</CommonForm>
-			<Catalog>Регионы</Catalog>
 			<Catalog>Банки</Catalog>
-			<Catalog>Склады</Catalog>
+			<Catalog>Валюты</Catalog>
 			<Catalog>ВидыЦен</Catalog>
+			<Catalog>Встречи</Catalog>
 			<Catalog>ВходящиеПисьма</Catalog>
 			<Catalog>ЗначенияХарактеристик</Catalog>
+			<Catalog>ИсходящиеПисьма</Catalog>
 			<Catalog>Контрагенты</Catalog>
-			<Catalog>Товары</Catalog>
 			<Catalog>МобильныеУстройства</Catalog>
 			<Catalog>НастройкиТорговогоОборудования</Catalog>
-			<Catalog>ХранимыеФайлы</Catalog>
-			<Catalog>Валюты</Catalog>
+			<Catalog>Организации</Catalog>
+			<Catalog>Пользователи</Catalog>
 			<Catalog>ПочтовыеВложения</Catalog>
 			<Catalog>РасчетныеСчета</Catalog>
 			<Catalog>РасчетныеСчетаКонтрагентов</Catalog>
-			<Catalog>Организации</Catalog>
-			<Catalog>Пользователи</Catalog>
-			<Catalog>ИсходящиеПисьма</Catalog>
+			<Catalog>Регионы</Catalog>
+			<Catalog>Склады</Catalog>
+			<Catalog>Товары</Catalog>
+			<Catalog>ФизическиеЛица</Catalog>
 			<Catalog>ХранилищеВариантовОтчетов</Catalog>
-			<Catalog>Встречи</Catalog>
+			<Catalog>ХранимыеФайлы</Catalog>
 			<Document>Заказ</Document>
 			<Document>ОперацияПоУчетуТоваров</Document>
 			<Document>Оплата</Document>
 			<Document>ПоступлениеДенег</Document>
 			<Document>ПриходТовара</Document>
 			<Document>РасходТовара</Document>
+			<Document>СлужебнаяЗаписка</Document>
 			<DocumentJournal>ДокументыПродаж</DocumentJournal>
 			<DocumentJournal>ФинансовыеДокументы</DocumentJournal>
 			<Enum>ВидыТоваров</Enum>
